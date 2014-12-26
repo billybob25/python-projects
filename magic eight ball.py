@@ -1,6 +1,6 @@
 import random
 
-answers = ['yes.','no.','maybe.','definitely.','no way!'] 
+answers = ['yes.','no.','maybe.','definitely.','no way!.'your dumb'] 
 print('''
 Welcome to the magic eight ball!
 Enter your name below:
